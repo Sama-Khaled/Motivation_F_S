@@ -1,0 +1,25 @@
+body {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 50%, #ffffff 100%);
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+div {
+    background: rgba(255, 255, 255, 0.38);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Dancing Script', cursive
+}
+
